@@ -1,0 +1,38 @@
+/*.SearchBar {*/
+/*  width: 100%;*/
+/*  margin: 30px;*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*}*/
+.Search{
+  width: 40%;
+}
+.nav{
+  width: 100%;
+  margin: 30px 0;
+}
+.command{
+  color: black;
+}
+
+.nav button{
+  width: 15%;
+  margin: 1%;
+  height: 40px;
+  background-color: #203dc6;
+  color: white;
+}
+
+.voice-controls button{
+  width: 15%;
+  margin: 0 10%;
+  color: #f6f6f6;
+  height: 40px;
+}
+.cancel{
+  background-color: red;
+}
+
+.submit{
+  background-color: green;
+}
